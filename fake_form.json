@@ -1,0 +1,61 @@
+{
+  "inputStyle": "Outlined",
+  "sections": [
+    {
+      "header": "Personal Details",
+      "formFields": [
+        {
+          "type": "email",
+          "label": "Email",
+          "isRequired": true,
+          "display": "inputBox"
+        },
+        {
+          "type": "password",
+          "label": "Password",
+          "isRequired": true,
+          "display": "inputBox"
+        },
+        {
+          "type": "area",
+          "label": "Description",
+          "isRequired": true,
+          "display": "inputBox"
+        },
+        {
+          "type": "boolean",
+          "label": "Ready",
+          "isRequired": true,
+          "display": "checkbox"
+        },
+        {
+          "type": "boolean",
+          "label": "Ready",
+          "isRequired": true,
+          "display": "switch"
+        },
+        {
+          "type": "multi",
+          "label": "Items",
+          "isRequired": true,
+          "display": "checkbox",
+          "options": [
+            "Item1",
+            "Item2",
+            "Item3"
+          ]
+        },
+        {
+          "type": "single",
+          "label": "Items",
+          "isRequired": true,
+          "display": "radio",
+          "options": [
+            "Item1",
+            "Item2"
+          ]
+        }
+      ]
+    }
+  ]
+}
