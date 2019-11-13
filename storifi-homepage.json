@@ -1,0 +1,182 @@
+{
+  "appId": "5dc292bd51371b4811a956f5",
+  "screenName": "home",
+  "screenData": {
+    "logo": "1212121",
+    "logoType": "text",
+    "featuredCategory": {
+      "_id": "5dc55aa22a389a1f04b9cee4",
+      "appId": "5dc292bd51371b4811a956f5",
+      "name": "The Winter Collection",
+      "description": "Women's | Apparel",
+      "status": "active",
+      "createdBy": "5dc150358480d04abe3f54d1",
+      "updatedBy": "5dc150358480d04abe3f54d1",
+      "createdAt": "2019-11-08T12:08:02.193Z",
+      "updatedAt": "2019-11-08T12:19:21.155Z",
+      "__v": 0
+    },
+    "featuredSection": [
+      {
+        "_id": "5dc90ca00bd91846fc94f21c",
+        "images": [
+          "https://api.natifi.io/uploads/1573456958542team-13.jpg",
+          "https://api.natifi.io/uploads/1573456933404Capture.PNG"
+        ],
+        "categoryId": "5dc55aa22a389a1f04b9cee4",
+        "attributeId": "5dc512062a389a1f04b9cee1",
+        "vendorId": "5dc7c7e82a389a1f04b9ceec",
+        "appId": "5dc90ca00bd91846fc94f21c",
+        "name": "Product 1",
+        "description": "Women's | Apparel",
+        "costPrice": 3,
+        "salePrice": 32,
+        "stockPrice": 434,
+        "stockUnit": 43,
+        "barcode": "2",
+        "intangible": true,
+        "hsCode": "34",
+        "codAllowed": true,
+        "status": "Published",
+        "size": "Medium",
+        "createdBy": "5dc150358480d04abe3f54d1",
+        "updatedBy": "5dc150358480d04abe3f54d1",
+        "createdAt": "2019-11-11T07:24:16.195Z",
+        "updatedAt": "2019-11-11T07:24:16.195Z",
+        "__v": 0
+      },
+      {
+        "_id": "5dc90ca00bd91846fc94f21c",
+        "images": [
+          "https://api.natifi.io/uploads/1573456933404Capture.PNG",
+          "https://api.natifi.io/uploads/1573456958542team-13.jpg"
+        ],
+        "categoryId": "5dc55aa22a389a1f04b9cee4",
+        "attributeId": "5dc512062a389a1f04b9cee1",
+        "vendorId": "5dc7c7e82a389a1f04b9ceec",
+        "appId": "5dc90ca00bd91846fc94f21c",
+        "name": "Product 2",
+        "description": "Women's | Apparel",
+        "costPrice": 3,
+        "salePrice": 32,
+        "stockPrice": 434,
+        "stockUnit": 43,
+        "barcode": "2",
+        "intangible": true,
+        "hsCode": "34",
+        "codAllowed": true,
+        "status": "Published",
+        "size": "Medium",
+        "createdBy": "5dc150358480d04abe3f54d1",
+        "updatedBy": "5dc150358480d04abe3f54d1",
+        "createdAt": "2019-11-11T07:24:16.195Z",
+        "updatedAt": "2019-11-11T07:24:16.195Z",
+        "__v": 0
+      }
+    ],
+    "featuredTitle": "The Winter Sale is Here",
+    "featuredProducts": [
+      {
+        "_id": "5dc90ca00bd91846fc94f21c",
+        "images": [
+          "https://api.natifi.io/uploads/1573456933404Capture.PNG",
+          "https://api.natifi.io/uploads/1573456958542team-13.jpg"
+        ],
+        "categoryId": "abc",
+        "attributeId": "5dc512062a389a1f04b9cee1",
+        "vendorId": "5dc7c7e82a389a1f04b9ceec",
+        "appId": "5dc90ca00bd91846fc94f21c",
+        "name": "Product 2",
+        "description": "Women's | Apparel",
+        "costPrice": 3,
+        "salePrice": 32,
+        "stockPrice": 434,
+        "stockUnit": 43,
+        "barcode": "2",
+        "intangible": true,
+        "hsCode": "34",
+        "codAllowed": true,
+        "status": "Published",
+        "size": "Medium",
+        "createdBy": "5dc150358480d04abe3f54d1",
+        "updatedBy": "5dc150358480d04abe3f54d1",
+        "createdAt": "2019-11-11T07:24:16.195Z",
+        "updatedAt": "2019-11-11T07:24:16.195Z",
+        "__v": 0
+      },
+      {
+        "_id": "5dc90ca00bd91846fc94f21c",
+        "images": [
+          "https://api.natifi.io/uploads/1573456933404Capture.PNG",
+          "https://api.natifi.io/uploads/1573456958542team-13.jpg"
+        ],
+        "categoryId": "abc",
+        "attributeId": "5dc512062a389a1f04b9cee1",
+        "vendorId": "5dc7c7e82a389a1f04b9ceec",
+        "appId": "5dc90ca00bd91846fc94f21c",
+        "name": "Product 2",
+        "description": "Women's | Apparel",
+        "costPrice": 3,
+        "salePrice": 32,
+        "stockPrice": 434,
+        "stockUnit": 43,
+        "barcode": "2",
+        "intangible": true,
+        "hsCode": "34",
+        "codAllowed": true,
+        "status": "Published",
+        "size": "Medium",
+        "createdBy": "5dc150358480d04abe3f54d1",
+        "updatedBy": "5dc150358480d04abe3f54d1",
+        "createdAt": "2019-11-11T07:24:16.195Z",
+        "updatedAt": "2019-11-11T07:24:16.195Z",
+        "__v": 0
+      },
+      {
+        "_id": "5dc90ca00bd91846fc94f21c",
+        "images": [
+          "https://api.natifi.io/uploads/1573456933404Capture.PNG",
+          "https://api.natifi.io/uploads/1573456958542team-13.jpg"
+        ],
+        "categoryId": "abc",
+        "attributeId": "5dc512062a389a1f04b9cee1",
+        "vendorId": "5dc7c7e82a389a1f04b9ceec",
+        "appId": "5dc90ca00bd91846fc94f21c",
+        "name": "Product 2",
+        "description": "Women's | Apparel",
+        "costPrice": 3,
+        "salePrice": 32,
+        "stockPrice": 434,
+        "stockUnit": 43,
+        "barcode": "2",
+        "intangible": true,
+        "hsCode": "34",
+        "codAllowed": true,
+        "status": "Published",
+        "size": "Medium",
+        "createdBy": "5dc150358480d04abe3f54d1",
+        "updatedBy": "5dc150358480d04abe3f54d1",
+        "createdAt": "2019-11-11T07:24:16.195Z",
+        "updatedAt": "2019-11-11T07:24:16.195Z",
+        "__v": 0
+      }
+    ],
+    "trending": {
+      "display": true,
+      "post": "Trending"
+    },
+    "popular": {
+      "display": true,
+      "post": "Pouplar this Season..."
+    },
+    "trendingTag": {
+      "display": true,
+      "post": "Trending at Strifi"
+    },
+    "curate": {
+      "display": true,
+      "post": "Curate"
+    },
+    "background": "#FFFFFF"
+  }
+}
